@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = arthurgpompeu1@gmail.com
+	name = Arthur Pompeu
